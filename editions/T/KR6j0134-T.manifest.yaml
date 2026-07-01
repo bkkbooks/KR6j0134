@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0134/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0134/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂一字頂輪王瑜伽一切時處念誦成佛儀軌
+  identifiers:
+    krp: KR6j0134
+    cbeta: T19n0957
+    cbeta_old_id: T19n0957
+    authorityid: CA0001632
+    json_key: T0957
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0957.xml
+    old_id: T19n0957
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0134_000-T.yaml, hash: 'sha256:8200b3470fdcf6113a24c00141d5726ffada82c39199c882a76b4a780831fd6f'}
+  - {seq: 1, filename: KR6j0134_001-T.yaml, hash: 'sha256:00a6516e223ad9c6e09d03583ca18e80f98df910ae8935cee4d5a6f80270753e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0134_000-T.markers.yaml, hash: 'sha256:ea406b35687b8228dcf63596b333f5f1eb4096ee7a1e23b0959bcf77310a0097'}
+  - {seq: 1, role: markers, filename: assets/KR6j0134_001-T.markers.yaml, hash: 'sha256:6e116d44ed59d5ba59d6c04c8bec015e5cf8df67634fe6a8869e258f365c747c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0134_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5528
+  label: '金剛頂經一字頂輪王瑜伽一切
+
+    時處念誦成佛儀軌一卷'
+  type: juan
+  level: 1
+hash: sha256:7e13787a5fff75577ad6d88fd6b963134e1730aeb7855b32297000dc2271e349

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0134/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛頂一字頂輪王瑜伽一切時處念誦成佛儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0957.xml
+    old_id: T19n0957
+hash: sha256:8200b3470fdcf6113a24c00141d5726ffada82c39199c882a76b4a780831fd6f
