@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0134_000.yaml, hash: 'sha256:8200b3470fdcf6113a24c00141d5726ffada82c39199c882a76b4a780831fd6f'}
-  - {seq: 1, filename: KR6j0134_001.yaml, hash: 'sha256:27828d2dd994f2c32b4af0f5f5c65e1df2f219e88c3fac5af868e8bbdb3e4a27'}
+  - {seq: 1, filename: KR6j0134_001.yaml, hash: 'sha256:00a6516e223ad9c6e09d03583ca18e80f98df910ae8935cee4d5a6f80270753e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0134_001.markers.yaml, hash: 'sha256:395745ced2605449ff114fe6946e445a868d9251a6cd3c01257d128cf595b278'}
+  - {seq: 0, role: markers, filename: assets/KR6j0134_000.markers.yaml, hash: 'sha256:01c69f0a315bdb1596db60e147ff3f21d09eac1c7e70981ddee80d99aa48e4bf'}
+  - {seq: 1, role: markers, filename: assets/KR6j0134_001.markers.yaml, hash: 'sha256:7cfc3d368ee6b88c0983d3a0984fe41f73f135398fb1ae6b23f1904295afefab'}
 table_of_contents:
 - ref:
     seq: 1
@@ -53,7 +54,4 @@ table_of_contents:
     時處念誦成佛儀軌一卷'
   type: juan
   level: 1
-hash: sha256:15465b50c0b8098ff790b4dbe91dd538174bf87e57859b767204b7e1eac372b3
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8271a047786ef2587d0df9efabf132a8b358c427657464ea789f5a2708258737
